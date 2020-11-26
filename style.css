@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Montserrat:wght@400;500&display=swap');
+.nav {
+    font-family: Acme;
+    font-weight: bold;
+}
+
+p {
+    font-family: Montserrat;
+    font-weight: 400;
+}
+
+.headings {
+    font-family: Acme;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.fab {
+    color: rgb(26, 25, 25);
+}
+
+.fab:hover {
+    color: lightgreen;
+}
+
+.bold {
+    font-weight: 400;
+    font-family: Montserrat;
+}
